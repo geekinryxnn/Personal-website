@@ -3,7 +3,6 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-
 }
 
 header {
@@ -81,17 +80,17 @@ nav ul li a {
   margin-left: auto;
 }
 
-.contact{
-display: inline;
-font-size: 30px;
-text-align: center;
-cursor: pointer;
+.contact {
+  display: inline;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
 }
 
-.contact :hover{
-  color:  #555;
+.contact :hover {
+  color: #555;
 }
 
-h2{
+h2 {
   text-align: center;
 }
